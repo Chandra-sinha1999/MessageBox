@@ -28,9 +28,10 @@ a {
 }
 
 .allIndex {
+  height: 100vh;
   background: url(../images/gokuMain.jpg);
   background-size: contain;
-  padding-bottom: 2%;
+  /* padding-bottom: 2%; */
   padding-top: 2%;
 }
 
@@ -224,7 +225,8 @@ a {
   margin-top: 2%;
 }
 .allChat {
+  height: 100vh;
   background: url(../images/gokuChat2.jpg);
   background-size: cover;
-  padding-bottom: 8.3%;
+  /* padding-bottom: 8.3%; */
 }
